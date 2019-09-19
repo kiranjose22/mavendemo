@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-D:\maven demo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\878638268.index
-\mavendemo\src\main\resources
